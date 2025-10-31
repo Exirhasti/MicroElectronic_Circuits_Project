@@ -1,0 +1,612 @@
+
+DC ANALYSIS: temperature=25.0
+
+v(A0) =    5.0000e+00
+v(B0) =    5.0000e+00
+v(EQ) =    5.0000e+00
+v(GT) =    7.5865e-08
+v(LT) =    7.5865e-08
+v(NA0) =    7.5865e-08
+v(NB0) =    7.5865e-08
+v(Vdd) =    5.0000e+00
+v(XAND1.N1) =    4.8866e+00
+v(XAND1.Vout) =    5.0000e+00
+v(XAND2.N1) =    1.5153e-07
+v(XAND2.Vout) =    5.0000e+00
+v(XXNOR.AND1) =    7.5865e-08
+v(XXNOR.AND2) =    7.5865e-08
+v(XXNOR.N1) =    5.0000e+00
+v(XXNOR.na) =    7.5865e-08
+v(XXNOR.nb) =    7.5865e-08
+v(XXNOR.XAND1.N1) =    4.8866e+00
+v(XXNOR.XAND1.Vout) =    5.0000e+00
+v(XXNOR.XAND2.N1) =    1.5153e-07
+v(XXNOR.XAND2.Vout) =    5.0000e+00
+i1(XINV1.MP1) =    3.7334e-11
+i2(XINV1.MP1) =    0.0000e+00
+i3(XINV1.MP1) =   -4.2334e-11
+i4(XINV1.MP1) =    5.0000e-12
+i1(XINV1.MN1) =    4.2334e-11
+i2(XINV1.MN1) =    0.0000e+00
+i3(XINV1.MN1) =   -4.2334e-11
+i4(XINV1.MN1) =   -7.5865e-20
+i1(XINV2.MP1) =    3.7334e-11
+i2(XINV2.MP1) =    0.0000e+00
+i3(XINV2.MP1) =   -4.2334e-11
+i4(XINV2.MP1) =    5.0000e-12
+i1(XINV2.MN1) =    4.2334e-11
+i2(XINV2.MN1) =    0.0000e+00
+i3(XINV2.MN1) =   -4.2334e-11
+i4(XINV2.MN1) =   -7.5865e-20
+i1(XAND1.XINV0.MP1) =    3.7334e-11
+i2(XAND1.XINV0.MP1) =    0.0000e+00
+i3(XAND1.XINV0.MP1) =   -4.2334e-11
+i4(XAND1.XINV0.MP1) =    5.0000e-12
+i1(XAND1.XINV0.MN1) =    4.2334e-11
+i2(XAND1.XINV0.MN1) =    0.0000e+00
+i3(XAND1.XINV0.MN1) =   -4.2334e-11
+i4(XAND1.XINV0.MN1) =   -7.5865e-20
+i1(XAND1.MP1) =    8.0668e-11
+i2(XAND1.MP1) =    0.0000e+00
+i3(XAND1.MP1) =   -8.0668e-11
+i4(XAND1.MP1) =    2.1742e-19
+i1(XAND1.MP2) =    2.0637e-17
+i2(XAND1.MP2) =    0.0000e+00
+i3(XAND1.MP2) =   -2.0854e-17
+i4(XAND1.MP2) =    2.1742e-19
+i1(XAND1.MN1) =    8.0668e-11
+i2(XAND1.MN1) =    0.0000e+00
+i3(XAND1.MN1) =   -7.5781e-11
+i4(XAND1.MN1) =   -4.8866e-12
+i1(XAND1.MN2) =   -8.0555e-11
+i2(XAND1.MN2) =    0.0000e+00
+i3(XAND1.MN2) =    8.0668e-11
+i4(XAND1.MN2) =   -1.1342e-13
+i1(XAND2.XINV0.MP1) =    3.7334e-11
+i2(XAND2.XINV0.MP1) =    0.0000e+00
+i3(XAND2.XINV0.MP1) =   -4.2334e-11
+i4(XAND2.XINV0.MP1) =    5.0000e-12
+i1(XAND2.XINV0.MN1) =    4.2334e-11
+i2(XAND2.XINV0.MN1) =    0.0000e+00
+i3(XAND2.XINV0.MN1) =   -4.2334e-11
+i4(XAND2.XINV0.MN1) =   -7.5865e-20
+i1(XAND2.MP1) =    2.1631e-17
+i2(XAND2.MP1) =    0.0000e+00
+i3(XAND2.MP1) =   -2.1859e-17
+i4(XAND2.MP1) =    2.2789e-19
+i1(XAND2.MP2) =    8.4555e-11
+i2(XAND2.MP2) =    0.0000e+00
+i3(XAND2.MP2) =   -8.4555e-11
+i4(XAND2.MP2) =    2.2789e-19
+i1(XAND2.MN1) =    8.4555e-11
+i2(XAND2.MN1) =    0.0000e+00
+i3(XAND2.MN1) =   -8.4555e-11
+i4(XAND2.MN1) =   -1.5153e-19
+i1(XAND2.MN2) =   -7.9555e-11
+i2(XAND2.MN2) =    0.0000e+00
+i3(XAND2.MN2) =    8.4555e-11
+i4(XAND2.MN2) =   -5.0000e-12
+i1(XXNOR.XINV1.MP1) =    3.7334e-11
+i2(XXNOR.XINV1.MP1) =    0.0000e+00
+i3(XXNOR.XINV1.MP1) =   -4.2334e-11
+i4(XXNOR.XINV1.MP1) =    5.0000e-12
+i1(XXNOR.XINV1.MN1) =    4.2334e-11
+i2(XXNOR.XINV1.MN1) =    0.0000e+00
+i3(XXNOR.XINV1.MN1) =   -4.2334e-11
+i4(XXNOR.XINV1.MN1) =   -7.5865e-20
+i1(XXNOR.XINV2.MP1) =    3.7334e-11
+i2(XXNOR.XINV2.MP1) =    0.0000e+00
+i3(XXNOR.XINV2.MP1) =   -4.2334e-11
+i4(XXNOR.XINV2.MP1) =    5.0000e-12
+i1(XXNOR.XINV2.MN1) =    4.2334e-11
+i2(XXNOR.XINV2.MN1) =    0.0000e+00
+i3(XXNOR.XINV2.MN1) =   -4.2334e-11
+i4(XXNOR.XINV2.MN1) =   -7.5865e-20
+i1(XXNOR.XAND1.XINV0.MP1) =    3.7334e-11
+i2(XXNOR.XAND1.XINV0.MP1) =    0.0000e+00
+i3(XXNOR.XAND1.XINV0.MP1) =   -4.2334e-11
+i4(XXNOR.XAND1.XINV0.MP1) =    5.0000e-12
+i1(XXNOR.XAND1.XINV0.MN1) =    4.2334e-11
+i2(XXNOR.XAND1.XINV0.MN1) =    0.0000e+00
+i3(XXNOR.XAND1.XINV0.MN1) =   -4.2334e-11
+i4(XXNOR.XAND1.XINV0.MN1) =   -7.5865e-20
+i1(XXNOR.XAND1.MP1) =    8.0668e-11
+i2(XXNOR.XAND1.MP1) =    0.0000e+00
+i3(XXNOR.XAND1.MP1) =   -8.0668e-11
+i4(XXNOR.XAND1.MP1) =    2.1742e-19
+i1(XXNOR.XAND1.MP2) =    2.0637e-17
+i2(XXNOR.XAND1.MP2) =    0.0000e+00
+i3(XXNOR.XAND1.MP2) =   -2.0854e-17
+i4(XXNOR.XAND1.MP2) =    2.1742e-19
+i1(XXNOR.XAND1.MN1) =    8.0668e-11
+i2(XXNOR.XAND1.MN1) =    0.0000e+00
+i3(XXNOR.XAND1.MN1) =   -7.5781e-11
+i4(XXNOR.XAND1.MN1) =   -4.8866e-12
+i1(XXNOR.XAND1.MN2) =   -8.0555e-11
+i2(XXNOR.XAND1.MN2) =    0.0000e+00
+i3(XXNOR.XAND1.MN2) =    8.0668e-11
+i4(XXNOR.XAND1.MN2) =   -1.1342e-13
+i1(XXNOR.XAND2.XINV0.MP1) =    3.7334e-11
+i2(XXNOR.XAND2.XINV0.MP1) =    0.0000e+00
+i3(XXNOR.XAND2.XINV0.MP1) =   -4.2334e-11
+i4(XXNOR.XAND2.XINV0.MP1) =    5.0000e-12
+i1(XXNOR.XAND2.XINV0.MN1) =    4.2334e-11
+i2(XXNOR.XAND2.XINV0.MN1) =    0.0000e+00
+i3(XXNOR.XAND2.XINV0.MN1) =   -4.2334e-11
+i4(XXNOR.XAND2.XINV0.MN1) =   -7.5865e-20
+i1(XXNOR.XAND2.MP1) =    2.1631e-17
+i2(XXNOR.XAND2.MP1) =    0.0000e+00
+i3(XXNOR.XAND2.MP1) =   -2.1859e-17
+i4(XXNOR.XAND2.MP1) =    2.2789e-19
+i1(XXNOR.XAND2.MP2) =    8.4555e-11
+i2(XXNOR.XAND2.MP2) =    0.0000e+00
+i3(XXNOR.XAND2.MP2) =   -8.4555e-11
+i4(XXNOR.XAND2.MP2) =    2.2789e-19
+i1(XXNOR.XAND2.MN1) =    8.4555e-11
+i2(XXNOR.XAND2.MN1) =    0.0000e+00
+i3(XXNOR.XAND2.MN1) =   -8.4555e-11
+i4(XXNOR.XAND2.MN1) =   -1.5153e-19
+i1(XXNOR.XAND2.MN2) =   -7.9555e-11
+i2(XXNOR.XAND2.MN2) =    0.0000e+00
+i3(XXNOR.XAND2.MN2) =    8.4555e-11
+i4(XXNOR.XAND2.MN2) =   -5.0000e-12
+i1(XXNOR.MN1) =    8.4555e-11
+i2(XXNOR.MN1) =    0.0000e+00
+i3(XXNOR.MN1) =   -7.9555e-11
+i4(XXNOR.MN1) =   -5.0000e-12
+i1(XXNOR.MN2) =    8.4555e-11
+i2(XXNOR.MN2) =    0.0000e+00
+i3(XXNOR.MN2) =   -7.9555e-11
+i4(XXNOR.MN2) =   -5.0000e-12
+i1(XXNOR.MP1) =    4.3263e-17
+i2(XXNOR.MP1) =    0.0000e+00
+i3(XXNOR.MP1) =   -4.3718e-17
+i4(XXNOR.MP1) =    4.5579e-19
+i1(XXNOR.MP2) =    1.6911e-10
+i2(XXNOR.MP2) =    0.0000e+00
+i3(XXNOR.MP2) =   -1.6911e-10
+i4(XXNOR.MP2) =    4.5579e-19
+i1(XXNOR.MP3) =    1.6911e-10
+i2(XXNOR.MP3) =    0.0000e+00
+i3(XXNOR.MP3) =   -1.6911e-10
+i4(XXNOR.MP3) =    1.3674e-18
+i1(XXNOR.MP4) =    4.2806e-17
+i2(XXNOR.MP4) =    0.0000e+00
+i3(XXNOR.MP4) =   -4.4173e-17
+i4(XXNOR.MP4) =    1.3674e-18
+i1(CL1) =    0.0000e+00
+i2(CL1) =    0.0000e+00
+i1(CL2) =    0.0000e+00
+i2(CL2) =    0.0000e+00
+i1(CL3) =    0.0000e+00
+i2(CL3) =    0.0000e+00
+i1(VDD) =   -8.3823e-10
+i2(VDD) =    8.3823e-10
+i1(VA0) =    0.0000e+00
+i2(VA0) =    0.0000e+00
+i1(VB0) =    0.0000e+00
+i2(VB0) =    0.0000e+00
+i1(XINV1) =    0.0000e+00
+i2(XINV1) =    2.0453e-19
+i3(XINV1) =    4.2334e-11
+i1(XINV2) =    0.0000e+00
+i2(XINV2) =    2.0453e-19
+i3(XINV2) =    4.2334e-11
+i1(XAND1) =    0.0000e+00
+i2(XAND1) =    0.0000e+00
+i3(XAND1) =   -1.1201e-19
+i4(XAND1) =    1.2300e-10
+i1(XAND1.XINV0) =    0.0000e+00
+i2(XAND1.XINV0) =   -1.1201e-19
+i3(XAND1.XINV0) =    4.2334e-11
+i1(XAND2) =    0.0000e+00
+i2(XAND2) =    0.0000e+00
+i3(XAND2) =   -2.3131e-19
+i4(XAND2) =    1.2689e-10
+i1(XAND2.XINV0) =    0.0000e+00
+i2(XAND2.XINV0) =   -2.3131e-19
+i3(XAND2.XINV0) =    4.2334e-11
+i1(XXNOR) =    0.0000e+00
+i2(XXNOR) =    0.0000e+00
+i3(XXNOR) =   -9.3999e-20
+i4(XXNOR) =    5.0367e-10
+i1(XXNOR.XINV1) =    0.0000e+00
+i2(XXNOR.XINV1) =    2.0453e-19
+i3(XXNOR.XINV1) =    4.2334e-11
+i1(XXNOR.XINV2) =    0.0000e+00
+i2(XXNOR.XINV2) =    2.0453e-19
+i3(XXNOR.XINV2) =    4.2334e-11
+i1(XXNOR.XAND1) =    0.0000e+00
+i2(XXNOR.XAND1) =    0.0000e+00
+i3(XXNOR.XAND1) =   -1.1201e-19
+i4(XXNOR.XAND1) =    1.2300e-10
+i1(XXNOR.XAND1.XINV0) =    0.0000e+00
+i2(XXNOR.XAND1.XINV0) =   -1.1201e-19
+i3(XXNOR.XAND1.XINV0) =    4.2334e-11
+i1(XXNOR.XAND2) =    0.0000e+00
+i2(XXNOR.XAND2) =    0.0000e+00
+i3(XXNOR.XAND2) =   -2.3131e-19
+i4(XXNOR.XAND2) =    1.2689e-10
+i1(XXNOR.XAND2.XINV0) =    0.0000e+00
+i2(XXNOR.XAND2.XINV0) =   -2.3131e-19
+i3(XXNOR.XAND2.XINV0) =    4.2334e-11
+v(A0) =    5.0000e+00
+v(B0) =    5.0000e+00
+v(LT) =    7.5865e-08
+v(GT) =    7.5865e-08
+v(EQ) =    5.0000e+00
+
+
+AC SMALL-SIGNAL MODELS: temperature=25.0
+
+
+                  0                 1                 2                 3              
+                  XINV1.MP1         XINV1.MN1         XINV2.MP1         XINV2.MN1        
+MODEL             PMOS              NMOS              PMOS              NMOS             
+TYPE              PMOS              NMOS              PMOS              NMOS             
+REGION            Cutoff            Linear            Cutoff            Linear           
+ID                  32.3342p           42.3342p           32.3342p           42.3342p      
+IBS                  0.                 0.                 0.                 0.           
+IBD                  0.                 0.                 0.                 0.           
+VGS                  5.0000             5.0000             5.0000             5.0000       
+VDS                  5.0000            75.8648n            5.0000            75.8648n      
+VBS                  5.0000             0.                 5.0000             0.           
+VTH               -425.7461m          461.8585m         -425.7461m          461.8585m      
+VDSAT              -38.4703m            2.1366           -38.4703m            2.1366       
+BETA               453.3500u          245.0341u          453.3500u          245.0341u      
+RS                   0.                 0.                 0.                 0.           
+RD                   0.                 0.                 0.                 0.           
+GM                -849.7574p           -6.5688p         -849.7574p           -6.5688p      
+GDS                -13.8019p          558.0210u          -13.8019p          558.0210u      
+GMB               -200.6951p            1.8781p         -200.6951p            1.8781p      
+GBD                  0.                 0.                 0.                 0.           
+GBS                  0.                 0.                 0.                 0.           
+CDTOT              924.7859a          760.6522a          924.7859a          760.6522a      
+CGTOT                1.1208f          861.0435a            1.1208f          861.0435a      
+CSTOT              727.2539a          569.1950a          727.2539a          569.1950a      
+CBTOT              929.9570a          731.1346a          929.9570a          731.1346a      
+CGS                466.4699a          407.7007a          466.4699a          407.7007a      
+CGD                443.4706a          425.4250a          443.4706a          425.4250a      
+CGB                210.8593a           27.9177a          210.8593a           27.9177a      
+CBD                458.3123a          305.5076a          458.3123a          305.5076a      
+CBS                260.7840a          305.5076a          260.7840a          305.5076a      
+
+                  4                 5                 6                 7              
+                  XAND1.XINV0.MP1   XAND1.XINV0.MN1   XAND1.MP1         XAND1.MP2        
+MODEL             PMOS              NMOS              PMOS              PMOS             
+TYPE              PMOS              NMOS              PMOS              PMOS             
+REGION            Cutoff            Linear            Linear            Cutoff           
+ID                  32.3344p           42.3344p           80.6679p           20.4195a      
+IBS                  0.                 0.                 0.                 0.           
+IBD                  0.                 0.                 0.                 0.           
+VGS                  5.0000             5.0000            -5.0000           217.4159n      
+VDS                  5.0000            75.8652n          217.4159n          217.4159n      
+VBS                  5.0000             0.               217.4159n          217.4159n      
+VTH               -425.7461m          461.8585m         -482.8721m         -482.8721m      
+VDSAT              -38.4703m            2.1366            -3.1937           -38.4858m      
+BETA               453.3500u          245.0341u          327.9347u          446.0425u      
+RS                   0.                 0.                 0.                 0.           
+RD                   0.                 0.                 0.                 0.           
+GM                -849.7623p           -6.5689p            5.8456p         -537.4977a      
+GDS                -13.8020p          558.0210u         -371.0306u          -93.9186p      
+GMB               -200.6962p            1.8781p            3.8563p         -206.7459a      
+GBD                  0.                 0.                 0.                 0.           
+GBS                  0.                 0.                 0.                 0.           
+CDTOT              924.7859a          760.6522a          948.5292a          924.7827a      
+CGTOT                1.1208f          861.0435a            1.5841f            1.1259f      
+CSTOT              727.2539a          569.1950a            1.3294f          924.7831a      
+CBTOT              929.9570a          731.1346a            1.1176f            1.1081f      
+CGS                466.4699a          407.7007a          782.5780a          466.4707a      
+CGD                443.4706a          425.4250a          806.6101a          467.9541a      
+CGB                210.8593a           27.9177a           -5.0562a          191.5236a      
+CBD                458.3123a          305.5076a          458.3123a          458.3123a      
+CBS                260.7840a          305.5076a          458.3122a          458.3122a      
+
+                  8                 9                 10                11             
+                  XAND1.MN1         XAND1.MN2         XAND2.XINV0.MP1   XAND2.XINV0.MN1  
+MODEL             NMOS              NMOS              PMOS              NMOS             
+TYPE              NMOS              NMOS              PMOS              NMOS             
+REGION            Cutoff            Cutoff            Cutoff            Linear           
+ID                  70.8948p          -80.4411p           32.3344p           42.3344p      
+IBS                  0.                 0.                 0.                 0.           
+IBD                  0.                 0.                 0.                 0.           
+VGS                 75.8648n          217.4159n            5.0000             5.0000       
+VDS                  4.8866          -113.4154m            5.0000            75.8652n      
+VBS                  0.              -113.4154m            5.0000             0.           
+VTH                409.4175m          460.6414m         -425.7461m          461.8585m      
+VDSAT               38.9870m           38.9382m          -38.4703m            2.1366       
+BETA               764.0218u          786.1339u          453.3500u          245.0341u      
+RS                   0.                 0.                 0.                 0.           
+RD                   0.                 0.                 0.                 0.           
+GM                   1.9117n           -2.1619n         -849.7625p           -6.5689p      
+GDS                 31.5814p         -115.2289p          -13.8020p          558.0210u      
+GMB                546.1244p         -598.6210p         -200.6962p            1.8781p      
+GBD                  0.                 0.                 0.                 0.           
+GBS                  0.                 0.                 0.                 0.           
+CDTOT              470.0389a          547.8742a          924.7859a          760.6522a      
+CGTOT              595.6097a          592.1563a            1.1208f          861.0435a      
+CSTOT              547.8628a          541.1412a          727.2539a          569.1950a      
+CBTOT              651.6960a          719.2962a          929.9570a          731.1346a      
+CGS                234.7564a          242.3525a          466.4699a          407.7007a      
+CGD                242.3525a          234.8104a          443.4706a          425.4250a      
+CGB                118.5008a          114.9934a          210.8593a           27.9177a      
+CBD                227.6863a          305.5076a          458.3123a          305.5076a      
+CBS                305.5076a          298.7886a          260.7840a          305.5076a      
+
+                  12                13                14                15             
+                  XAND2.MP1         XAND2.MP2         XAND2.MN1         XAND2.MN2        
+MODEL             PMOS              PMOS              NMOS              NMOS             
+TYPE              PMOS              PMOS              NMOS              NMOS             
+REGION            Cutoff            Linear            Linear            Cutoff           
+ID                  21.4034a           84.5551p           84.5552p          -74.5552p      
+IBS                  0.                 0.                 0.                 0.           
+IBD                  0.                 0.                 0.                 0.           
+VGS                227.8926n           -5.0000             5.0000            -5.0000       
+VDS                227.8926n          227.8926n          151.5268n           -5.0000       
+VBS                227.8926n          227.8926n            0.                -5.0000       
+VTH               -482.8721m         -482.8721m          461.8585m          408.2004m      
+VDSAT              -38.4858m           -3.1937             2.1366            38.9882m      
+BETA               446.0425u          327.9347u          245.0341u          763.4793u      
+RS                   0.                 0.                 0.                 0.           
+RD                   0.                 0.                 0.                 0.           
+GM                -563.3983a            6.1273p          -13.1201p           -2.0103n      
+GDS                -93.9186p         -371.0306u          558.0210u          -32.9810p      
+GMB               -216.7084a            4.0421p            3.7512p         -573.9197p      
+GBD                  0.                 0.                 0.                 0.           
+GBS                  0.                 0.                 0.                 0.           
+CDTOT              924.7827a          948.5292a          760.6522a          547.8629a      
+CGTOT                1.1259f            1.5841f          861.0435a          595.5472a      
+CSTOT              924.7831a            1.3294f          569.1950a          469.4268a      
+CBTOT                1.1081f            1.1176f          731.1345a          651.0122a      
+CGS                466.4707a          782.5780a          407.7008a          242.3525a      
+CGD                467.9541a          806.6101a          425.4250a          234.7656a      
+CGB                191.5236a           -5.0562a           27.9177a          118.4290a      
+CBD                458.3123a          458.3123a          305.5076a          305.5076a      
+CBS                458.3122a          458.3122a          305.5076a          227.0742a      
+
+                  16                17                18                19             
+                  XXNOR.XINV1.MP1   XXNOR.XINV1.MN1   XXNOR.XINV2.MP1   XXNOR.XINV2.MN1  
+MODEL             PMOS              NMOS              PMOS              NMOS             
+TYPE              PMOS              NMOS              PMOS              NMOS             
+REGION            Cutoff            Linear            Cutoff            Linear           
+ID                  32.3342p           42.3342p           32.3342p           42.3342p      
+IBS                  0.                 0.                 0.                 0.           
+IBD                  0.                 0.                 0.                 0.           
+VGS                  5.0000             5.0000             5.0000             5.0000       
+VDS                  5.0000            75.8648n            5.0000            75.8648n      
+VBS                  5.0000             0.                 5.0000             0.           
+VTH               -425.7461m          461.8585m         -425.7461m          461.8585m      
+VDSAT              -38.4703m            2.1366           -38.4703m            2.1366       
+BETA               453.3500u          245.0341u          453.3500u          245.0341u      
+RS                   0.                 0.                 0.                 0.           
+RD                   0.                 0.                 0.                 0.           
+GM                -849.7574p           -6.5688p         -849.7574p           -6.5688p      
+GDS                -13.8019p          558.0210u          -13.8019p          558.0210u      
+GMB               -200.6951p            1.8781p         -200.6951p            1.8781p      
+GBD                  0.                 0.                 0.                 0.           
+GBS                  0.                 0.                 0.                 0.           
+CDTOT              924.7859a          760.6522a          924.7859a          760.6522a      
+CGTOT                1.1208f          861.0435a            1.1208f          861.0435a      
+CSTOT              727.2539a          569.1950a          727.2539a          569.1950a      
+CBTOT              929.9570a          731.1346a          929.9570a          731.1346a      
+CGS                466.4699a          407.7007a          466.4699a          407.7007a      
+CGD                443.4706a          425.4250a          443.4706a          425.4250a      
+CGB                210.8593a           27.9177a          210.8593a           27.9177a      
+CBD                458.3123a          305.5076a          458.3123a          305.5076a      
+CBS                260.7840a          305.5076a          260.7840a          305.5076a      
+
+                  20                21                22                23             
+                  XXNOR.XAND1.XINV0.MP1 XXNOR.XAND1.XINV0.MN1 XXNOR.XAND1.MP1   XXNOR.XAND1.MP2  
+MODEL             PMOS              NMOS              PMOS              PMOS             
+TYPE              PMOS              NMOS              PMOS              PMOS             
+REGION            Cutoff            Linear            Linear            Cutoff           
+ID                  32.3344p           42.3344p           80.6679p           20.4195a      
+IBS                  0.                 0.                 0.                 0.           
+IBD                  0.                 0.                 0.                 0.           
+VGS                  5.0000             5.0000            -5.0000           217.4159n      
+VDS                  5.0000            75.8652n          217.4159n          217.4159n      
+VBS                  5.0000             0.               217.4159n          217.4159n      
+VTH               -425.7461m          461.8585m         -482.8721m         -482.8721m      
+VDSAT              -38.4703m            2.1366            -3.1937           -38.4858m      
+BETA               453.3500u          245.0341u          327.9347u          446.0425u      
+RS                   0.                 0.                 0.                 0.           
+RD                   0.                 0.                 0.                 0.           
+GM                -849.7623p           -6.5689p            5.8456p         -537.4977a      
+GDS                -13.8020p          558.0210u         -371.0306u          -93.9186p      
+GMB               -200.6962p            1.8781p            3.8563p         -206.7459a      
+GBD                  0.                 0.                 0.                 0.           
+GBS                  0.                 0.                 0.                 0.           
+CDTOT              924.7859a          760.6522a          948.5292a          924.7827a      
+CGTOT                1.1208f          861.0435a            1.5841f            1.1259f      
+CSTOT              727.2539a          569.1950a            1.3294f          924.7831a      
+CBTOT              929.9570a          731.1346a            1.1176f            1.1081f      
+CGS                466.4699a          407.7007a          782.5780a          466.4707a      
+CGD                443.4706a          425.4250a          806.6101a          467.9541a      
+CGB                210.8593a           27.9177a           -5.0562a          191.5236a      
+CBD                458.3123a          305.5076a          458.3123a          458.3123a      
+CBS                260.7840a          305.5076a          458.3122a          458.3122a      
+
+                  24                25                26                27             
+                  XXNOR.XAND1.MN1   XXNOR.XAND1.MN2   XXNOR.XAND2.XINV0.MP1 XXNOR.XAND2.XINV0.MN1
+MODEL             NMOS              NMOS              PMOS              NMOS             
+TYPE              NMOS              NMOS              PMOS              NMOS             
+REGION            Cutoff            Cutoff            Cutoff            Linear           
+ID                  70.8948p          -80.4411p           32.3344p           42.3344p      
+IBS                  0.                 0.                 0.                 0.           
+IBD                  0.                 0.                 0.                 0.           
+VGS                 75.8648n          217.4159n            5.0000             5.0000       
+VDS                  4.8866          -113.4154m            5.0000            75.8652n      
+VBS                  0.              -113.4154m            5.0000             0.           
+VTH                409.4175m          460.6414m         -425.7461m          461.8585m      
+VDSAT               38.9870m           38.9382m          -38.4703m            2.1366       
+BETA               764.0218u          786.1339u          453.3500u          245.0341u      
+RS                   0.                 0.                 0.                 0.           
+RD                   0.                 0.                 0.                 0.           
+GM                   1.9117n           -2.1619n         -849.7625p           -6.5689p      
+GDS                 31.5814p         -115.2289p          -13.8020p          558.0210u      
+GMB                546.1244p         -598.6210p         -200.6962p            1.8781p      
+GBD                  0.                 0.                 0.                 0.           
+GBS                  0.                 0.                 0.                 0.           
+CDTOT              470.0389a          547.8742a          924.7859a          760.6522a      
+CGTOT              595.6097a          592.1563a            1.1208f          861.0435a      
+CSTOT              547.8628a          541.1412a          727.2539a          569.1950a      
+CBTOT              651.6960a          719.2962a          929.9570a          731.1346a      
+CGS                234.7564a          242.3525a          466.4699a          407.7007a      
+CGD                242.3525a          234.8104a          443.4706a          425.4250a      
+CGB                118.5008a          114.9934a          210.8593a           27.9177a      
+CBD                227.6863a          305.5076a          458.3123a          305.5076a      
+CBS                305.5076a          298.7886a          260.7840a          305.5076a      
+
+                  28                29                30                31             
+                  XXNOR.XAND2.MP1   XXNOR.XAND2.MP2   XXNOR.XAND2.MN1   XXNOR.XAND2.MN2  
+MODEL             PMOS              PMOS              NMOS              NMOS             
+TYPE              PMOS              PMOS              NMOS              NMOS             
+REGION            Cutoff            Linear            Linear            Cutoff           
+ID                  21.4034a           84.5551p           84.5552p          -74.5552p      
+IBS                  0.                 0.                 0.                 0.           
+IBD                  0.                 0.                 0.                 0.           
+VGS                227.8926n           -5.0000             5.0000            -5.0000       
+VDS                227.8926n          227.8926n          151.5268n           -5.0000       
+VBS                227.8926n          227.8926n            0.                -5.0000       
+VTH               -482.8721m         -482.8721m          461.8585m          408.2004m      
+VDSAT              -38.4858m           -3.1937             2.1366            38.9882m      
+BETA               446.0425u          327.9347u          245.0341u          763.4793u      
+RS                   0.                 0.                 0.                 0.           
+RD                   0.                 0.                 0.                 0.           
+GM                -563.3983a            6.1273p          -13.1201p           -2.0103n      
+GDS                -93.9186p         -371.0306u          558.0210u          -32.9810p      
+GMB               -216.7084a            4.0421p            3.7512p         -573.9197p      
+GBD                  0.                 0.                 0.                 0.           
+GBS                  0.                 0.                 0.                 0.           
+CDTOT              924.7827a          948.5292a          760.6522a          547.8629a      
+CGTOT                1.1259f            1.5841f          861.0435a          595.5472a      
+CSTOT              924.7831a            1.3294f          569.1950a          469.4268a      
+CBTOT                1.1081f            1.1176f          731.1345a          651.0122a      
+CGS                466.4707a          782.5780a          407.7008a          242.3525a      
+CGD                467.9541a          806.6101a          425.4250a          234.7656a      
+CGB                191.5236a           -5.0562a           27.9177a          118.4290a      
+CBD                458.3123a          458.3123a          305.5076a          305.5076a      
+CBS                458.3122a          458.3122a          305.5076a          227.0742a      
+
+                  32                33                34                35             
+                  XXNOR.MN1         XXNOR.MN2         XXNOR.MP1         XXNOR.MP2        
+MODEL             NMOS              NMOS              PMOS              PMOS             
+TYPE              NMOS              NMOS              PMOS              PMOS             
+REGION            Cutoff            Cutoff            Cutoff            Linear           
+ID                  74.5554p           74.5554p           42.8068a          169.1108p      
+IBS                  0.                 0.                 0.                 0.           
+IBD                  0.                 0.                 0.                 0.           
+VGS                 75.8652n           75.8652n          455.7868n           -5.0000       
+VDS                  5.0000             5.0000           455.7868n          455.7868n      
+VBS                  0.                 0.               455.7868n          455.7868n      
+VTH                408.2004m          408.2004m         -482.8721m         -482.8721m      
+VDSAT               38.9882m           38.9882m          -38.4858m           -3.1937       
+BETA               763.4793u          763.4793u          446.0425u          327.9347u      
+RS                   0.                 0.                 0.                 0.           
+RD                   0.                 0.                 0.                 0.           
+GM                   2.0103n            2.0103n           -1.1268f           12.2547p      
+GDS                 32.9812p           32.9812p          -93.9180p         -371.0306u      
+GMB                573.9219p          573.9219p         -433.4169a            8.0843p      
+GBD                  0.                 0.                 0.                 0.           
+GBS                  0.                 0.                 0.                 0.           
+CDTOT              469.4268a          469.4268a          924.7827a          948.5292a      
+CGTOT              595.5471a          595.5471a            1.1259f            1.5841f      
+CSTOT              547.8629a          547.8629a          924.7831a            1.3294f      
+CBTOT              651.0122a          651.0122a            1.1081f            1.1176f      
+CGS                234.7656a          234.7656a          466.4707a          782.5780a      
+CGD                242.3525a          242.3525a          467.9541a          806.6101a      
+CGB                118.4290a          118.4290a          191.5236a           -5.0562a      
+CBD                227.0742a          227.0742a          458.3123a          458.3123a      
+CBS                305.5076a          305.5076a          458.3122a          458.3122a      
+
+                  36                37             
+                  XXNOR.MP3         XXNOR.MP4        
+MODEL             PMOS              PMOS             
+TYPE              PMOS              PMOS             
+REGION            Linear            Cutoff           
+ID                 169.1108p           42.8061a      
+IBS                  0.                 0.           
+IBD                  0.                 0.           
+VGS                 -5.0000           911.5735n      
+VDS                455.7867n          455.7867n      
+VBS                911.5735n          911.5735n      
+VTH               -482.8722m         -482.8722m      
+VDSAT               -3.1937           -38.4858m      
+BETA               327.9347u          446.0424u      
+RS                   0.                 0.           
+RD                   0.                 0.           
+GM                  12.2547p           -1.1268f      
+GDS               -371.0306u          -93.9164p      
+GMB                  8.0843p         -433.4097a      
+GBD                  0.                 0.           
+GBS                  0.                 0.           
+CDTOT              948.5291a          924.7826a      
+CGTOT                1.5841f            1.1259f      
+CSTOT                1.3294f          924.7830a      
+CBTOT                1.1176f            1.1081f      
+CGS                782.5780a          466.4707a      
+CGD                806.6101a          467.9541a      
+CGB                 -5.0562a          191.5236a      
+CBD                458.3122a          458.3122a      
+CBS                458.3121a          458.3121a      
+
+                  38                39                40             
+                  CL1               CL2               CL3              
+V                   75.8652n           75.8652n            5.0000       
+CAP                 10.0000f           10.0000f           10.0000f      
+
+
+* VOLTAGE SOURCES
+
+                  41                42                43             
+                  VDD               VA0               VB0              
+VOLTAGE              5.0000             5.0000             5.0000       
+CURRENT           -838.2312p            0.                 0.           
+POWER               -4.1912n            0.                 0.           
+
+
+Element name cross-reference:
+      0 : XINV1.MP1
+      1 : XINV1.MN1
+      2 : XINV2.MP1
+      3 : XINV2.MN1
+      4 : XAND1.XINV0.MP1
+      5 : XAND1.XINV0.MN1
+      6 : XAND1.MP1
+      7 : XAND1.MP2
+      8 : XAND1.MN1
+      9 : XAND1.MN2
+     10 : XAND2.XINV0.MP1
+     11 : XAND2.XINV0.MN1
+     12 : XAND2.MP1
+     13 : XAND2.MP2
+     14 : XAND2.MN1
+     15 : XAND2.MN2
+     16 : XXNOR.XINV1.MP1
+     17 : XXNOR.XINV1.MN1
+     18 : XXNOR.XINV2.MP1
+     19 : XXNOR.XINV2.MN1
+     20 : XXNOR.XAND1.XINV0.MP1
+     21 : XXNOR.XAND1.XINV0.MN1
+     22 : XXNOR.XAND1.MP1
+     23 : XXNOR.XAND1.MP2
+     24 : XXNOR.XAND1.MN1
+     25 : XXNOR.XAND1.MN2
+     26 : XXNOR.XAND2.XINV0.MP1
+     27 : XXNOR.XAND2.XINV0.MN1
+     28 : XXNOR.XAND2.MP1
+     29 : XXNOR.XAND2.MP2
+     30 : XXNOR.XAND2.MN1
+     31 : XXNOR.XAND2.MN2
+     32 : XXNOR.MN1
+     33 : XXNOR.MN2
+     34 : XXNOR.MP1
+     35 : XXNOR.MP2
+     36 : XXNOR.MP3
+     37 : XXNOR.MP4
+     38 : CL1
+     39 : CL2
+     40 : CL3
+     41 : VDD
+     42 : VA0
+     43 : VB0

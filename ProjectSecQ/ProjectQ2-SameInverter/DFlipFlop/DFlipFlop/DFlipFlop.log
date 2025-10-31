@@ -1,0 +1,48 @@
+T-Spice - Tanner SPICE
+Version 2019.2
+License validated.
+Product Release ID: T-Spice Win64 2019.2.20190514.20:23:23
+Copyright (C)1988-2019 Mentor, a Siemens Business
+
+Input folder         = C:\Users\exirh\Desktop\Private\6th semester\Microelectronic circuits\Project\MC-Project-KimiaSedaghati-1401012268039\ProjectSecQ\ProjectQ2-SameInverter\DFlipFlop\
+Output folder        = C:\Users\exirh\Desktop\Private\6th semester\Microelectronic circuits\Project\MC-Project-KimiaSedaghati-1401012268039\ProjectSecQ\ProjectQ2-SameInverter\DFlipFlop\DFlipFlop
+
+	Parsing "C:\Users\exirh\Desktop\Private\6th semester\Microelectronic circuits\Project\MC-Project-KimiaSedaghati-1401012268039\ProjectSecQ\ProjectQ2-SameInverter\DFlipFlop\DFlipFlop.sp"
+	Including "C:\Users\exirh\Desktop\project\mosistsmc180.lib"
+
+Start of DFlipFlop.sp
+Loaded BSIM3v31 model library, Berkeley BSIM3 v3.1.0 with extensions
+
+Model Evaluation options:
+          scale = 9e-08
+
+General options:
+        threads = 1
+
+Output options:
+          nomod = 1                      post = 2
+
+Probing options:
+         probev = 1
+
+ Device and node counts:
+              MOSFETs -      14
+    MOSFET geometries -       4
+      Voltage sources -       4
+   Subckt Definitions -       2
+     Subckt Instances -       5
+     Unique Instances -       1
+    Model Definitions -       2
+      Computed Models -       2
+    Independent nodes -       5
+       Boundary nodes -       5
+          Total nodes -      10
+
+	Opening simulation database "C:\Users\exirh\Desktop\Private\6th semester\Microelectronic circuits\Project\MC-Project-KimiaSedaghati-1401012268039\ProjectSecQ\ProjectQ2-SameInverter\DFlipFlop\DFlipFlop.tsim"
+
+Transient Analysis           0.06 seconds
+Overhead                     0.44 seconds
+-----------------------------------------
+Total                        0.52 seconds
+
+Simulation completed
